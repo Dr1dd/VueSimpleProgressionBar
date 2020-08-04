@@ -8,7 +8,7 @@
 <script>
 
 export default {
-  name: 'VueSimpleProgressBar',
+  name: 'ProgressBar',
   props:{
       rounded: {
         type: Boolean,

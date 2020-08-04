@@ -3,7 +3,7 @@ import component from './ProgressBar.vue'
 function install(Vue) {
     if (install.installed) return;
     install.installed = true;
-    Vue.component("VueSimpleProgressBar", component);
+    Vue.component("ProgressBar", component);
   }
   
   const plugin = {

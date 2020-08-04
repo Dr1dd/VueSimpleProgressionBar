@@ -1,5 +1,5 @@
 {
-  "name": "simpleprogressbar",
+  "name": "vueprogressionbar",
   "version": "0.1.0",
   "main": "dist/ProgressBar.umd.js",
   "module": "dist/ProgressBar.esm.js",
