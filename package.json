@@ -1,6 +1,6 @@
 {
   "name": "vueprogressionbar",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "main": "dist/ProgressBar.umd.js",
   "module": "dist/ProgressBar.esm.js",
   "unpkg": "dist/ProgressBar.min.js",
