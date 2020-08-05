@@ -50,5 +50,30 @@ Ex:
 ```
  <ProgressBar color="red"/>
  ```
+## CSS
+```
+.progress-bar-container{
+    width: 100%;
+    position: fixed;
+}
+.progress-bar{
+    height: 100%;
+    background-color: #76ceff;
+    transition: 0.1s ease;
+}
+.progress-bar--small{
+    height: 5px;
+}
+.progress-bar--medium{
+    height: 7px;
+}
+.progress-bar--big{
+    height: 10px;
+}
+.progress-bar--rounded{
+    border-radius: 5px;
+}
+
+```
 ## Gif example
  ![gif](https://media.giphy.com/media/QvetFy5WqoWuuZPQzY/giphy.gif)
